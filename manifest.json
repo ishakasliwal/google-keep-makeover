@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Google Keep Makeover",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://keep.google.com/",
+        "http://mail.google.com/*"
+      ],
+      "js": ["jquery-3.2.1.min.js", "content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
