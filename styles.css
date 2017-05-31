@@ -1,3 +1,29 @@
+body {
+  background-color: #fff !important;
+}
+
+/*** HEADER ***/
+
+/* body */
+.gb_Td {
+  background-color: #e0e0e0 !important;
+}
+
+/* logo */
+.gb_Zb {
+  display: none !important;
+}
+
+/* search */
+.gb_Bd.gb_Ld .gb_yd .gb_ie {
+  margin-left: -20px !important;
+}
+
+/* left nav */
+.gb_ec {
+  background-color: #f9f9f9 !important;
+}
+
 .notranslate {
   font-family: 'Roboto', Arial, sans-serif !important;
 }
