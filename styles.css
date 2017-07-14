@@ -5,7 +5,7 @@ body {
 /*** HEADER ***/
 
 /* body */
-.gb_Td {
+.gb_Td, .gb_Xd {
   background-color: #e0e0e0 !important;
 }
 
